@@ -1,0 +1,550 @@
+1. Esaretin Bedeli 9.3
+2. Baba 9.2
+3. Kara Þövalye 9.0
+4. Baba 2 9.0
+5. 12 Öfkeli Adam 9.0
+6. Schindler'in Listesi 9.0
+7. Yüzüklerin Efendisi: Kralýn Dönüþü 9.0
+8. Ucuz Roman 8.9
+9. Yüzüklerin Efendisi: Yüzük Kardeþliði 8.8
+10. Ýyi, Kötü ve Çirkin 8.8
+11. Forrest Gump 8.8
+12. Dövüþ Kulübü 8.8
+13. Yüzüklerin Efendisi: Ýki Kule 8.8
+14. Baþlangýç 8.8
+15. Örümcek-Adam: Örümcek Evrenine Geçiþ 8.8
+16. Yýldýz Savaþlarý: Ýmparator 8.7
+17. Matrix 8.7
+18. Sýký Dostlar 8.7
+19. Guguk Kuþu 8.7
+20. Yedi 8.6
+21. Þahane Hayat 8.6
+22. Yedi Samuray: Kanlý Pirinç 8.6
+23. Kuzularýn Sessizliði 8.6
+24. Yýldýzlararasý 8.7
+25. Er Ryan'ý Kurtarmak 8.6
+26. Tanrý Kent 8.6
+27. Hayat Güzeldir 8.6
+28. Yeþil Yol 8.6
+29. Yýldýz Savaþlarý: Bölüm IV - Yeni Bir Umut 8.6
+30. Terminatör 2: Mahþer Günü 8.6
+31. Oppenheimer 8.6
+32. Geleceðe Dönüþ 8.5
+33. Ruhlarýn Kaçýþý 8.6
+34. Piyanist 8.5
+35. Sapýk 8.5
+36. Parazit 8.5
+37. Gladyatör 8.5
+38. Aslan Kral 8.5
+39. Sevginin Gücü 8.5
+40. Geçmiþin Gölgesinde 8.5
+41. Köstebek 8.5
+42. Whiplash 8.5
+43. Prestij 8.5
+44. Olaðan Þüpheliler 8.5
+45. Casablanca 8.5
+46. Ateþböceklerinin Mezarý 8.5
+47. Seppuku 8.6
+48. Can Dostum 8.5
+49. Asri Zamanlar 8.5
+50. Cennet Sinemasý 8.5
+1. Esaretin Bedeli 9.3
+2. Baba 9.2
+3. Kara Þövalye 9.0
+4. Baba 2 9.0
+5. 12 Öfkeli Adam 9.0
+6. Schindler'in Listesi 9.0
+7. Yüzüklerin Efendisi: Kralýn Dönüþü 9.0
+8. Ucuz Roman 8.9
+9. Yüzüklerin Efendisi: Yüzük Kardeþliði 8.8
+10. Ýyi, Kötü ve Çirkin 8.8
+11. Forrest Gump 8.8
+12. Dövüþ Kulübü 8.8
+13. Yüzüklerin Efendisi: Ýki Kule 8.8
+14. Baþlangýç 8.8
+15. Örümcek-Adam: Örümcek Evrenine Geçiþ 8.8
+16. Yýldýz Savaþlarý: Ýmparator 8.7
+17. Matrix 8.7
+18. Sýký Dostlar 8.7
+19. Guguk Kuþu 8.7
+20. Yedi 8.6
+21. Þahane Hayat 8.6
+22. Yedi Samuray: Kanlý Pirinç 8.6
+23. Kuzularýn Sessizliði 8.6
+24. Yýldýzlararasý 8.7
+25. Er Ryan'ý Kurtarmak 8.6
+26. Tanrý Kent 8.6
+27. Hayat Güzeldir 8.6
+28. Yeþil Yol 8.6
+29. Yýldýz Savaþlarý: Bölüm IV - Yeni Bir Umut 8.6
+30. Terminatör 2: Mahþer Günü 8.6
+31. Oppenheimer 8.6
+32. Geleceðe Dönüþ 8.5
+33. Ruhlarýn Kaçýþý 8.6
+34. Piyanist 8.5
+35. Sapýk 8.5
+36. Parazit 8.5
+37. Gladyatör 8.5
+38. Aslan Kral 8.5
+39. Sevginin Gücü 8.5
+40. Geçmiþin Gölgesinde 8.5
+41. Köstebek 8.5
+42. Whiplash 8.5
+43. Prestij 8.5
+44. Olaðan Þüpheliler 8.5
+45. Casablanca 8.5
+46. Ateþböceklerinin Mezarý 8.5
+47. Seppuku 8.6
+48. Can Dostum 8.5
+49. Asri Zamanlar 8.5
+50. Cennet Sinemasý 8.5
+51. Batýda Kan Var 8.5
+52. Arka Pencere 8.5
+53. Yaratýk 8.5
+54. Þehir Iþýklarý 8.5
+55. Kýyamet 8.4
+56. Akýl Defteri 8.4
+57. Zincirsiz 8.4
+58. Kutsal Hazine Avcýlarý 8.4
+59. VOL·i 8.4
+60. Baþkalarýnýn Hayatý 8.4
+61. Sunset Bulvarý 8.4
+62. Zafer Yollarý 8.4
+63. Yenilmezler: Sonsuzluk Savaþý 8.4
+64. Cinnet 8.4
+65. Þarlo Diktatör 8.4
+66. Beklenmeyen Þahit 8.4
+67. Örümcek Adam: Örümcek Evreninde 8.4
+68. Yaratýk 2: Yaratýðýn Dönüþü 8.4
+69. Amerikan Güzeli 8.3
+70. Kara Þövalye Yükseliyor 8.4
+71. Garip Doktor 8.4
+72. Soysuzlar Çetesi 8.3
+73. Ýhtiyar Delikanlý 8.4
+74. Coco 8.4
+75. Amadeus 8.4
+76. Oyuncak Hikayesi 8.3
+77. Cesur Yürek 8.3
+78. U-Bot: Denizaltý 8.4
+79. Joker 8.4
+80. Yenilmezler: Son Oyun 8.4
+81. Prenses Mononoke 8.3
+82. Can Dostum 8.3
+83. Bir Zamanlar Amerika 8.3
+84. Senin Adýn 8.4
+85. 3 Ahmak 8.4
+86. Yaðmur Altýnda 8.3
+87. Yüksek ve Alçak 8.4
+88. Bir Rüya Ýçin Aðýt 8.3
+89. Kefernahum 8.4
+90. Oyuncak Hikayesi 3 8.3
+91. Gel ve Gör 8.4
+92. Yýldýz Savaþlarý: Jedi'nin Dönüþü 8.3
+93. Sil Baþtan 8.3
+94. 2001: Uzay Yolu Macerasý 8.3
+95. Onur Savaþý 8.3
+96. Rezervuar Köpekleri 8.3
+97. Lawrence of Arabia 8.3
+98. Yaþamak 8.3
+99. Yurttaþ Kane 8.3
+100. Bir Þehir Katilini Arýyor 8.3
+101. Gizli Teþkilât 8.3
+102. Garsoniyer 8.3
+103. Ölüm Korkusu 8.3
+104. Amelie 8.3
+105. Çifte Tazminat 8.3
+106. Yaralý Yüz 8.3
+107. Full Metal Jacket 8.3
+108. Otomatik Portakal 8.3
+109. Ýçimdeki Yangýn 8.3
+110. Hamilton 8.3
+111. Büyük Hesaplaþma 8.3
+112. Yukarý Bak 8.3
+113. Bülbülü Öldürmek 8.3
+114. Belalýlar 8.3
+115. Bir Ayrýlýk 8.3
+116. Indiana Jones 3: Son Macera 8.2
+117. Metropolis 8.3
+118. Zor Ölüm 8.2
+119. Los Angeles Sýrlarý 8.2
+120. Bisiklet Hýrsýzlarý 8.3
+121. Kapýþma 8.2
+122. Her Çocuk Özeldir 8.3
+123. Taksi Þoförü 8.2
+124. 1917 8.2
+125. Çöküþ 8.2
+126. Dangal 8.3
+127. Top Gun: Maverick 8.3
+128. Birkaç Dolar Ýçin 8.2
+129. Batman Baþlýyor 8.2
+130. Bazýlarý Sýcak Sever 8.2
+131. Yumurcak 8.3
+132. Baba 8.2
+133. Para Avcýsý 8.2
+134. Yeþil Rehber 8.2
+135. Perde Açýlýyor 8.2
+136. Nürenberg Duruþmasý 8.3
+137. Truman Show 8.2
+138. Ran 8.2
+139. Casino 8.2
+140. Kan Dökülecek 8.2
+141. Zindan Adasý 8.2
+142. Pan'ýn Labirenti 8.2
+143. Affedilmeyen 8.2
+144. Altýncý his 8.2
+145. Jurassic Park 8.2
+146. Akýl Oyunlarý 8.2
+147. Altýn Hazineleri 8.2
+148. Yojimbo 8.2
+149. Ýhtiyarlara Yer Yok 8.2
+150. Monty Python ve Kutsal Kâse 8.2
+151. Bill'i Öldür: Bölüm 1 8.2
+152. Büyük Firar 8.2
+153. Þey 8.2
+154. Rasomon: Sarý Irkýn Þehveti 8.2
+155. Kayýp Balýk Nemo 8.2
+156. Fil Adam 8.2
+157. Çin Mahallesi 8.2
+158. Örümcek Adam: Eve Dönüþ Yok 8.2
+159. V - V for Vendetta 8.2
+160. Rüzgâr gibi geçti 8.2
+161. Kýzgýn Boða 8.1
+162. Cinayet var 8.2
+163. Yürüyen Þato 8.2
+164. Ateþten Kalbe Akýldan Dumana 8.1
+165. Gözlerindeki Sýr 8.2
+166. Ters Yüz 8.1
+167. Tutsak 8.1
+168. Üç Billboard Ebbing Çýkýþý, Missouri 8.1
+169. Kwai Köprüsü 8.1
+170. Trainspotting 8.1
+171. Fargo 8.1
+172. Büyük Dövüþ 8.1
+173. Gran Torino 8.1
+174. Sýkýysa Yakala 8.1
+175. Komþum Totoro 8.1
+176. Milyonluk Bebek 8.1
+177. Klaus: Sihirli Plan 8.2
+178. Cennetin çocuklarý 8.2
+179. Harry Potter ve Ölüm Yadigârlarý: Bölüm 2 8.1
+180. Ölüm Takibi 8.1
+181. 12 Yýllýk Esaret 8.1
+182. Altýna hücum 8.1
+183. Gün Doðmadan 8.1
+184. Büyük Budapeþte Oteli 8.1
+185. Ben-Hur 8.1
+186. Kayýp Kýz 8.1
+187. Rýhtýmlar Üstünde 8.1
+188. Barry Lyndon 8.1
+189. Savaþ Vadisi 8.1
+190. Babam Ýçin 8.1
+191. General 8.1
+192. Avcý 8.1
+193. Yaban Çilekleri 8.1
+194. Cinayet Günlüðü 8.1
+195. Üçüncü Adam Kim? 8.1
+196. Dehþet yolcularý 8.2
+197. Sherlock Jr. 8.2
+198. Asabiyim Ben 8.1
+199. Çýlgýn Max: Öfkeli Yollar 8.1
+200. Mr. Smith Washington'a Gidiyor 8.1
+201. Ölü Ozanlar Derneði 8.1
+202. Sevimli Canavarlar 8.1
+203. Ejderhaný Nasýl Eðitirsin 8.1
+204. Mary ve Max 8.1
+205. Jaws 8.1
+206. Yedinci Mühür 8.1
+207. Gizli Dünya 8.1
+208. Büyük Lebowski 8.1
+209. Tokyo Hikâyesi 8.1
+210. Asfaltýn Krallarý 8.1
+211. Ratatuy 8.1
+212. Ruanda Oteli 8.1
+213. La passion de Jeanne d'Arc 8.2
+214. Rocky 8.1
+215. X-Men: Logan 8.1
+216. Müfreze 8.1
+217. Spotlight 8.1
+218. Terminatör: Yok Edici 8.1
+219. Jai Bhim 8.8
+220. Gün Batmadan 8.1
+221. Zafere Hücum 8.1
+222. Þebeke 8.1
+223. Benimle kal 8.1
+224. Hayatýmýzýn En Güzel Yýllarý 8.1
+225. Oz Büyücüsü 8.1
+226. Into the Wild 8.1
+227. Protesto - Nefret 8.1
+228. Þeytan 8.1
+229. Ýnanýlmaz Aile 8.0
+230. Karayýp Korsanlarý: Siyah Ýnci'nin Laneti 8.1
+231. Büyük Macera 8.2
+232. Bugün Aslýnda Dündü 8.0
+233. Babam ve Oðlum 8.2
+234. Gazap üzümleri 8.1
+235. Cezayir Savaþý 8.1
+236. Hachi: Bir Köpeðin Hikâyesi 8.1
+237. Hizmetçi 8.1
+238. Paramparça Aþklar Köpekler 8.1
+239. Pather Panchali 8.2
+240. Parmaklýklar Arkasýnda 8.1
+241. Rebeka 8.1
+242. Neþeli günler 8.1
+243. Ýki Gönül Bir Olunca 8.1
+244. 400 Darbe 8.1
+245. Demir Dev 8.1
+246. Duygularýn Rengi 8.1
+247. Persona 8.1
+248. Life of Brian 8.0
+249. Alaaddin 8.0
+250. Kurtlarla Dans 8.0
+1. Esaretin Bedeli 9.3
+2. Baba 9.2
+3. Kara Þövalye 9.0
+4. Baba 2 9.0
+5. 12 Öfkeli Adam 9.0
+6. Schindler'in Listesi 9.0
+7. Yüzüklerin Efendisi: Kralýn Dönüþü 9.0
+8. Ucuz Roman 8.9
+9. Yüzüklerin Efendisi: Yüzük Kardeþliði 8.8
+10. Ýyi, Kötü ve Çirkin 8.8
+11. Forrest Gump 8.8
+12. Dövüþ Kulübü 8.8
+13. Yüzüklerin Efendisi: Ýki Kule 8.8
+14. Baþlangýç 8.8
+15. Yýldýz Savaþlarý: Ýmparator 8.7
+16. Matrix 8.7
+17. Örümcek-Adam: Örümcek Evrenine Geçiþ 8.8
+18. Sýký Dostlar 8.7
+19. Guguk Kuþu 8.7
+20. Yedi 8.6
+21. Þahane Hayat 8.6
+22. Yedi Samuray: Kanlý Pirinç 8.6
+23. Kuzularýn Sessizliði 8.6
+24. Yýldýzlararasý 8.7
+25. Er Ryan'ý Kurtarmak 8.6
+26. Tanrý Kent 8.6
+27. Hayat Güzeldir 8.6
+28. Yeþil Yol 8.6
+29. Yýldýz Savaþlarý: Bölüm IV - Yeni Bir Umut 8.6
+30. Terminatör 2: Mahþer Günü 8.6
+31. Geleceðe Dönüþ 8.5
+32. Ruhlarýn Kaçýþý 8.6
+33. Piyanist 8.5
+34. Sapýk 8.5
+35. Oppenheimer 8.6
+36. Parazit 8.5
+37. Gladyatör 8.5
+38. Aslan Kral 8.5
+39. Sevginin Gücü 8.5
+40. Geçmiþin Gölgesinde 8.5
+41. Köstebek 8.5
+42. Whiplash 8.5
+43. Prestij 8.5
+44. Olaðan Þüpheliler 8.5
+45. Ateþböceklerinin Mezarý 8.5
+46. Casablanca 8.5
+47. Seppuku 8.6
+48. Can Dostum 8.5
+49. Asri Zamanlar 8.5
+50. Cennet Sinemasý 8.5
+51. Batýda Kan Var 8.5
+52. Arka Pencere 8.5
+53. Yaratýk 8.5
+54. Þehir Iþýklarý 8.5
+55. Kýyamet 8.4
+56. Akýl Defteri 8.4
+57. Zincirsiz 8.4
+58. Kutsal Hazine Avcýlarý 8.4
+59. VOL·i 8.4
+60. Baþkalarýnýn Hayatý 8.4
+61. Sunset Bulvarý 8.4
+62. Zafer Yollarý 8.4
+63. Yenilmezler: Sonsuzluk Savaþý 8.4
+64. Cinnet 8.4
+65. Þarlo Diktatör 8.4
+66. Beklenmeyen Þahit 8.4
+67. Örümcek Adam: Örümcek Evreninde 8.4
+68. Yaratýk 2: Yaratýðýn Dönüþü 8.4
+69. Amerikan Güzeli 8.3
+70. Kara Þövalye Yükseliyor 8.4
+71. Soysuzlar Çetesi 8.3
+72. Garip Doktor 8.4
+73. Ýhtiyar Delikanlý 8.4
+74. Coco 8.4
+75. Amadeus 8.4
+76. Oyuncak Hikayesi 8.3
+77. Cesur Yürek 8.3
+78. U-Bot: Denizaltý 8.4
+79. Joker 8.4
+80. Yenilmezler: Son Oyun 8.4
+81. Prenses Mononoke 8.3
+82. Can Dostum 8.3
+83. Bir Zamanlar Amerika 8.3
+84. Senin Adýn 8.4
+85. 3 Ahmak 8.4
+86. Yüksek ve Alçak 8.4
+87. Yaðmur Altýnda 8.3
+88. Bir Rüya Ýçin Aðýt 8.3
+89. Kefernahum 8.4
+90. Oyuncak Hikayesi 3 8.3
+91. Gel ve Gör 8.4
+92. Yýldýz Savaþlarý: Jedi'nin Dönüþü 8.3
+93. Sil Baþtan 8.3
+94. 2001: Uzay Yolu Macerasý 8.3
+95. Onur Savaþý 8.3
+96. Rezervuar Köpekleri 8.3
+97. Yaþamak 8.3
+98. Lawrence of Arabia 8.3
+99. Yurttaþ Kane 8.3
+100. Bir Þehir Katilini Arýyor 8.3
+101. Gizli Teþkilât 8.3
+102. Garsoniyer 8.3
+103. Ölüm Korkusu 8.3
+104. Çifte Tazminat 8.3
+105. Amelie 8.3
+106. Yaralý Yüz 8.3
+107. Full Metal Jacket 8.3
+108. Otomatik Portakal 8.3
+109. Ýçimdeki Yangýn 8.3
+110. Hamilton 8.3
+111. Büyük Hesaplaþma 8.3
+112. Yukarý Bak 8.3
+113. Bülbülü Öldürmek 8.3
+114. Belalýlar 8.3
+115. Bir Ayrýlýk 8.3
+116. Indiana Jones 3: Son Macera 8.2
+117. Metropolis 8.3
+118. Zor Ölüm 8.2
+119. Los Angeles Sýrlarý 8.2
+120. Bisiklet Hýrsýzlarý 8.3
+121. Kapýþma 8.2
+122. Her Çocuk Özeldir 8.3
+123. Taksi Þoförü 8.2
+124. 1917 8.2
+125. Çöküþ 8.2
+126. Dangal 8.3
+127. Top Gun: Maverick 8.3
+128. Birkaç Dolar Ýçin 8.2
+129. Batman Baþlýyor 8.2
+130. Bazýlarý Sýcak Sever 8.2
+131. Yumurcak 8.2
+132. Para Avcýsý 8.2
+133. Baba 8.2
+134. Yeþil Rehber 8.2
+135. Perde Açýlýyor 8.2
+136. Nürenberg Duruþmasý 8.3
+137. Truman Show 8.2
+138. Ran 8.2
+139. Kan Dökülecek 8.2
+140. Casino 8.2
+141. Zindan Adasý 8.2
+142. Pan'ýn Labirenti 8.2
+143. Affedilmeyen 8.2
+144. Altýncý his 8.2
+145. Jurassic Park 8.2
+146. Akýl Oyunlarý 8.2
+147. Altýn Hazineleri 8.2
+148. Yojimbo 8.2
+149. Ýhtiyarlara Yer Yok 8.2
+150. Monty Python ve Kutsal Kâse 8.2
+151. Bill'i Öldür: Bölüm 1 8.2
+152. Büyük Firar 8.2
+153. Þey 8.2
+154. Rasomon: Sarý Irkýn Þehveti 8.2
+155. Kayýp Balýk Nemo 8.2
+156. Fil Adam 8.2
+157. Çin Mahallesi 8.2
+158. Örümcek Adam: Eve Dönüþ Yok 8.2
+159. V - V for Vendetta 8.2
+160. Rüzgâr gibi geçti 8.2
+161. Kýzgýn Boða 8.1
+162. Cinayet var 8.2
+163. Yürüyen Þato 8.2
+164. Ateþten Kalbe Akýldan Dumana 8.1
+165. Gözlerindeki Sýr 8.2
+166. Ters Yüz 8.1
+167. Tutsak 8.1
+168. Üç Billboard Ebbing Çýkýþý, Missouri 8.1
+169. Kwai Köprüsü 8.1
+170. Trainspotting 8.1
+171. Fargo 8.1
+172. Büyük Dövüþ 8.1
+173. Gran Torino 8.1
+174. Sýkýysa Yakala 8.1
+175. Komþum Totoro 8.1
+176. Milyonluk Bebek 8.1
+177. Klaus: Sihirli Plan 8.2
+178. Cennetin çocuklarý 8.2
+179. Harry Potter ve Ölüm Yadigârlarý: Bölüm 2 8.1
+180. Ölüm Takibi 8.1
+181. 12 Yýllýk Esaret 8.1
+182. Gün Doðmadan 8.1
+183. Altýna hücum 8.1
+184. Büyük Budapeþte Oteli 8.1
+185. Ben-Hur 8.1
+186. Kayýp Kýz 8.1
+187. Rýhtýmlar Üstünde 8.1
+188. Barry Lyndon 8.1
+189. Savaþ Vadisi 8.1
+190. Babam Ýçin 8.1
+191. General 8.1
+192. Avcý 8.1
+193. Yaban Çilekleri 8.1
+194. Cinayet Günlüðü 8.1
+195. Üçüncü Adam Kim? 8.1
+196. Dehþet yolcularý 8.2
+197. Asabiyim Ben 8.1
+198. Sherlock Jr. 8.2
+199. Çýlgýn Max: Öfkeli Yollar 8.1
+200. Mr. Smith Washington'a Gidiyor 8.1
+201. Ölü Ozanlar Derneði 8.1
+202. Sevimli Canavarlar 8.1
+203. Ejderhaný Nasýl Eðitirsin 8.1
+204. Mary ve Max 8.1
+205. Jaws 8.1
+206. Yedinci Mühür 8.1
+207. Gizli Dünya 8.1
+208. Büyük Lebowski 8.1
+209. Tokyo Hikâyesi 8.1
+210. Asfaltýn Krallarý 8.1
+211. Ratatuy 8.1
+212. Ruanda Oteli 8.1
+213. La passion de Jeanne d'Arc 8.2
+214. Rocky 8.1
+215. X-Men: Logan 8.1
+216. Müfreze 8.1
+217. Spotlight 8.1
+218. Terminatör: Yok Edici 8.1
+219. Jai Bhim 8.8
+220. Gün Batmadan 8.1
+221. Zafere Hücum 8.1
+222. Þebeke 8.1
+223. Benimle kal 8.1
+224. Hayatýmýzýn En Güzel Yýllarý 8.1
+225. Oz Büyücüsü 8.1
+226. Into the Wild 8.1
+227. Protesto - Nefret 8.1
+228. Þeytan 8.1
+229. Ýnanýlmaz Aile 8.0
+230. Karayýp Korsanlarý: Siyah Ýnci'nin Laneti 8.1
+231. Büyük Macera 8.2
+232. Bugün Aslýnda Dündü 8.0
+233. Babam ve Oðlum 8.2
+234. Gazap üzümleri 8.1
+235. Hachi: Bir Köpeðin Hikâyesi 8.1
+236. Cezayir Savaþý 8.1
+237. Hizmetçi 8.1
+238. Paramparça Aþklar Köpekler 8.1
+239. Rebeka 8.1
+240. Parmaklýklar Arkasýnda 8.1
+241. Pather Panchali 8.2
+242. Neþeli günler 8.1
+243. Ýki Gönül Bir Olunca 8.1
+244. Demir Dev 8.1
+245. 400 Darbe 8.1
+246. Duygularýn Rengi 8.1
+247. Persona 8.1
+248. Life of Brian 8.0
+249. Alaaddin 8.0
+250. Drishyam 8.2
